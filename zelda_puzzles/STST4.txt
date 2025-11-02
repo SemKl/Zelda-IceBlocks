@@ -1,0 +1,14 @@
+7 13
+XXXXXXX
+X....OX
+X.....X
+XX....X
+XX....X
+XXX...X
+XX...XX
+XX....X
+XX....X
+XXX...X
+XX...TX
+XX....X
+XXXXXXX

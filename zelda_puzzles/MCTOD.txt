@@ -1,0 +1,15 @@
+12 14
+WWWWWWWWWWWW
+WWWW.......W
+WWWW..O....W
+WW.........W
+W..........W
+W..O.......W
+W..T....O..W
+W.....O....W
+W..........W
+W.O........W
+W......O..WW
+W.........WW
+W.........WW
+WWWWWWWWWWWW
